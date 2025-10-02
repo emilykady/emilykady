@@ -15,7 +15,7 @@
 - 🎓 Estudiante de segundo curso del Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 - 📚 Grado Medio en Sistemas Microinformáticos y Redes (SMR)
 - 💻 Desarrollo tanto frontend como backend
-- 🔥 Experiencia en: HTML, CSS, JavaScript, Python, Java, Angular, C#, .NET
+- Experiencia en: HTML, CSS, JavaScript, Python, Java, Angular, C#, .NET
 - 🚀 Aprendiendo: Android Studio con Kotlin
 - 🧠 Certificados:  
   - Curso de IA de Google y Santander  
@@ -29,7 +29,7 @@
 - 🎓 Second-year student in Multiplatform Application Development (DAM)
 - 📚 Completed Intermediate Vocational Training in Microcomputer Systems and Networks (SMR)
 - 💻 Fullstack developer: frontend & backend
-- 🔥 Experienced in: HTML, CSS, JavaScript, Python, Java, Angular, C#, .NET
+- Experienced in: HTML, CSS, JavaScript, Python, Java, Angular, C#, .NET
 - 🚀 Currently learning: Android Studio with Kotlin
 - 🧠 Certificates:  
   - Google & Santander AI Course  
@@ -66,7 +66,7 @@
 
 - IA Google & Santander
 - Elements of AI (Universidad de Helsinki)
-- Otros cursos relevantes
+  
 
 ---
 
@@ -80,9 +80,9 @@
 ## 📫 Contacto
 
 ¿Quieres conectar?  
-<!-- 
+ 
 email : emilysofiakady@gmail.com
--->
+
 
 ---
 
@@ -92,4 +92,4 @@ email : emilysofiakady@gmail.com
 
 ---
 
-<!-- Gracias por visitar mi perfil 💙 -->
+Gracias por visitar mi perfil 💙 
