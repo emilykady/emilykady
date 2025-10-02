@@ -86,10 +86,4 @@ email : emilysofiakady@gmail.com
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/elegant-banner-darkblue.png" width="60%" />
-</p>
-
----
-
 Gracias por visitar mi perfil 💙 
